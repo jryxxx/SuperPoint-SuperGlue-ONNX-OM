@@ -5,5 +5,3 @@ The C++ tensorrt inference source code is available at the following URL https:/
 
 We convert and inference the onnx models according to the code in the above repository.
 
-We are doing our best to complement the C++ inference code.
-
